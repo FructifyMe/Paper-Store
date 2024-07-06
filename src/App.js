@@ -82,4 +82,6 @@ const Dashboard = () => {
   );
 };
 
-export default () => <Dashboard />;
+const App = () => <Dashboard />;
+
+export default App;
